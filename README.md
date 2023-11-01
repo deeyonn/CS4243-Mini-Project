@@ -17,6 +17,7 @@ Develop an algorithm to detect any possible dangers to help alert the relevant a
 
 1. Prepare the given dataset.
   - Download the dataset from [here](https://drive.google.com/drive/folders/1qm0jkcNPWN3jBj7jQiZhndbKUsx4Ozfl).
+  - Download 7zip from [here](https://www.7-zip.org/download.html).
   - E.g. Data cleaning, visualization, pre-processing, normalization.
 2. Minimally, develop a vanilla baseline classifier to discriminate between the two classes above the baseline recognition rate of 50% from a random classifier.
 3. Provide improvements for the baseline method.
