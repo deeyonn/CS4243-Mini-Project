@@ -40,3 +40,11 @@ Develop an algorithm to detect any possible dangers to help alert the relevant a
 - [ ] Improvement 5 (Hyperparameter tuning: Learning rate decay, batch size, etc.)
 - [ ] Improvement 6 (Over/Under sampling)
 - [ ] Improvement 7 (Feature extraction methods from lectures)
+
+## For Local Setup
+1. Clone this project repository
+2. Download the dataset from link: https://drive.google.com/drive/folders/1qm0jkcNPWN3jBj7jQiZhndbKUsx4Ozfl
+3. Unzip the dataset and move the `frames` folder into the root of the project
+4. (Optional) Create and activate a python environment and install the necessary dependencies listed in `requirements.txt`
+5. Run `python data_preparation.py` to create the prepared dataset; all work should be done with this dataset
+6. Proceed with your work
