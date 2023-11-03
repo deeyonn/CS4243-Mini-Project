@@ -45,6 +45,18 @@ Develop an algorithm to detect any possible dangers to help alert the relevant a
 1. Clone this project repository
 2. Download the dataset from link: https://drive.google.com/drive/folders/1qm0jkcNPWN3jBj7jQiZhndbKUsx4Ozfl
 3. Unzip the dataset and move the `frames` folder into the root of the project
+  - The folder structure should look like this:
+  ```
+  .
+  ├── frames
+  │   ├── test
+  │   │   ├── norm
+  │   │   └── weap
+  │   └── train
+  │       ├── norm
+  │       └── weap
+  ├── data_preperation.ipynb
+  ```
 4. (Optional) Create and activate a python environment and install the necessary dependencies listed in `requirements.txt`
-5. Run `python data_preparation.py` to create the prepared dataset; all work should be done with this dataset
+5. Run `data_preperation.ipynb` to create the prepared dataset; all work should be done with this dataset
 6. Proceed with your work
