@@ -28,8 +28,8 @@ Develop an algorithm to detect any possible dangers to help alert the relevant a
 ## TODO
 - [x] Download dataset
 - [ ] Data cleaning (remove duplicates, etc.)
-- [ ] Data augmentation (flip, rotate, crop, etc.)
-- [ ] Baseline model (Pixel input -> Fully connected layers -> Softmax)
+- [x] Data augmentation (flip, rotate, crop, etc.)
+- [x] Baseline model (Pixel input -> Fully connected layers -> Softmax)
 - [ ] Poster
 
 ### Possible improvements
