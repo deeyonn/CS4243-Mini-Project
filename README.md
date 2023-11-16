@@ -33,11 +33,11 @@ Develop an algorithm to detect any possible dangers to help alert the relevant a
 - [ ] Poster
 
 ### Possible improvements
-- [ ] Improvement 1 (Convolution layers)
-- [ ] Improvement 2 (Regularization: Dropout, Batch normalization)
-- [ ] Improvement 3 (Loss function: Cross entropy, L2 loss)
-- [ ] Improvement 4 (Optimizer: SGD, Adam)
-- [ ] Improvement 5 (Hyperparameter tuning: Learning rate decay, batch size, etc.)
+- [X] Improvement 1 (Convolution layers)
+- [x] Improvement 2 (Regularization: Dropout, Batch normalization)
+- [x] Improvement 3 (Loss function: Cross entropy, L2 loss)
+- [x] Improvement 4 (Optimizer: SGD, Adam)
+- [x] Improvement 5 (Hyperparameter tuning: Learning rate decay, batch size, etc.)
 - [ ] Improvement 6 (Over/Under sampling)
 - [ ] Improvement 7 (Feature extraction methods from lectures)
 
